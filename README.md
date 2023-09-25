@@ -45,6 +45,6 @@ Masuk ke direktori proyek (Local):
 ```shell
 streamlit run dashboard.py
 ```
-Atau bisa dengan kunjungi website ini [Project Data Analytics]([https://bikesharing-dashboard.streamlit.app/])
+Atau bisa dengan kunjungi website ini [Project Dicoding](https://bikesharing-dashboard.streamlit.app/)
 
    
