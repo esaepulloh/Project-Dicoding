@@ -9,7 +9,7 @@ Repository ini berisi proyek data analytics yang saya kerjakan. Deployment in **
 Proyek ini bertujuan untuk menganalisis data pada Bike Sharing Dataset. Tujuan akhirnya adalah untuk menghasilkan wawasan dan informasi yang berguna dari data yang dianalisis.
 
 ## Struktur Direktori
-
+```shell
 submission
 ├───dashboard
 | ├───Capital Bikeshare Logo.png
@@ -22,6 +22,7 @@ submission
 ├───notebook.ipynb
 ├───README.md
 └───requirements.txt
+```
 
 ## Instalasi
 
